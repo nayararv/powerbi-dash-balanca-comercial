@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas - Power BI
+# 📊 Dashboard da Balança Comercial Brasileira - Power BI
 
 ## 🎯 Objetivo
 Analisar desempenho de vendas, faturamento, ticket médio e performance por região.
