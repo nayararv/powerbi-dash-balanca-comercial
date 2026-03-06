@@ -5,9 +5,7 @@ Analisar o desempenho da balança comercial do Brasil, destacando exportações,
 
 ## 🛠 Ferramentas Utilizadas
 - Power BI  
-- DAX  
-- SQL (tratamento e integração de dados)  
-- Modelagem estrela  
+- DAX 
 
 ## 📌 Principais Insights
 - Carne aparece como principal produto exportado no período analisado  
