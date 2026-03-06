@@ -63,18 +63,20 @@ Alguns padrões identificados na análise:
 
 # 📂 Estrutura do Projeto
 
+```
 powerbi-dash-balanca-comercial
 │
 ├── data
-│ Base de dados utilizada no projeto
+│   └── Base de dados utilizada no projeto
 │
 ├── dashboard
-│ Arquivo .pbix do Power BI
+│   └── Arquivo Power BI (.pbix)
 │
 ├── images
-│ Imagens e prints do dashboard
+│   └── Prints do dashboard
 │
 └── README.md
+```
 
 ---
 
