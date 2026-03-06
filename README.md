@@ -67,13 +67,14 @@ Alguns padrões identificados na análise:
 powerbi-dash-balanca-comercial
 │
 ├── data
-│   └── Base de dados utilizada no projeto
+│   └── balanca_comercial_dados.xlsx
 │
 ├── dashboard
-│   └── Arquivo Power BI (.pbix)
+│   └── dashboard_balanca_comercial.pbix
 │
 ├── images
-│   └── Prints do dashboard
+│   └── capa_projeto_powerbi.png
+│   └──imagem_dashboard_balaca.png
 │
 └── README.md
 ```
